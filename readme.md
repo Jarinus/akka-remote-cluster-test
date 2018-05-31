@@ -21,3 +21,6 @@ Note that `172.18.0.2` was a consistent inner IP address for my docker container
 your docker container's IP address if something goes wrong.
 
 Overwrite any `application.conf` configuration by passing them as arguments after `jarinus/akka-remote-cluster-test \`
+
+## Docker Image
+The Docker image for this project can be found [here](https://hub.docker.com/r/jarinus/akka-remote-cluster-test/).
